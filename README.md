@@ -4,6 +4,19 @@ Password Generator
 
 ##Screenshots
 
+![challenge 3 welcome](https://user-images.githubusercontent.com/100103488/162658755-153122f2-1dad-4cd7-82bb-c5ab04a88a0e.jpg)
+
+![Challenge 3 how many](https://user-images.githubusercontent.com/100103488/162658766-25650e88-d8c9-4a11-b14e-1d6b43f57753.png)
+
+![Challenge 3 uppercase](https://user-images.githubusercontent.com/100103488/162658798-b836e630-155b-4910-ae12-96db80e2b2ae.jpg)
+
+![challenge 3 lwrcase](https://user-images.githubusercontent.com/100103488/162658807-2d8c9df0-23ac-4eb5-a2ab-b585eec19579.png)
+
+![challenge 3 num](https://user-images.githubusercontent.com/100103488/162658824-8a621bf2-386b-45a7-bf47-484e2f9df0a3.png)
+
+![challenge 3 speccase](https://user-images.githubusercontent.com/100103488/162658837-b03388c7-bb86-4962-bb7d-8db3b969acb5.png)
+
+![challenge 3 result](https://user-images.githubusercontent.com/100103488/162658849-70c3c5ae-c557-4594-9a33-c7c2c97d7626.png)
 
 
 
