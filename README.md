@@ -1,6 +1,6 @@
 
 Password Generator
-#Challenge 3 Creating a simple password generator with JS
+###Challenge 3 Creating a simple password generator with JS
 
 ##Screenshots
 
@@ -50,11 +50,11 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-Built
+##Built
 Using Basic Javascript
 
-Contributing
+##Contributing
 Brain Meat Nuggets. 
 
-License
-Javascript Use Licence 
+##License
+Fair Use
